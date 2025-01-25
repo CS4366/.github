@@ -14,6 +14,6 @@
   
 | <img src="https://github.com/zoiebonnette03.png" width="100" height="100">| <img src="https://github.com/JacobBruen.png" width="100" height="100"> | <img src="https://github.com/jaxcksn.png" width="100" height="100">| <img src="https://github.com/patrickpfontaine.png" width="100" height="100">| <img src="https://github.com/bgorman65.png" width="100" height="100"> |
 |:-------------:|---------------|--------------|------------------|:-----------:|
-| Zoie Bonnette | Jacob Bruen | Jackson Casey | Patrick Fontaine | Barry Gorman |
+| [Zoie Bonnette](https://github.com/zoiebonnette03) | [Jacob Bruen](https://github.com/JacobBruen) | [Jackson Casey](https://github.com/jaxcksn) | [Patrick Fontaine](https://github.com/patrickpfontaine) | [Barry Gorman](https://github.com/bgorman65) |
 
 </div>
